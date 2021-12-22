@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Poppins';
+}
+body div {
+    text-align: center;
+}
+header {
+    background-color: #A152EF;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+header h2 span {
+    color: #F9F9F9;
+}
